@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Shin Fujieda
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Software Development Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: AMD Japan Ltd.
+  url: "https://www.amd.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include path tracing, deep learning and image processing.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Graphics
+- Path Tracing
+- Image Processing
+- Texture Analysis
+- Deep Learning
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Computer Graphics
+    institution: The University of Tokyo
+    year: 2018
+  - course: BEng in Informarion and Communication Engeneering
+    institution: The University of Tokyo
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +45,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sfujieda/
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/shin.fujieda.9
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/shinel_fj
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/shinfj
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shin Fujieda is a software development engineer in the team of Workstation Graphics R&D in AMD Japan Ltd. In this team, he is in charge of developing a phisically-based rendering engine, [ProRender](https://www.amd.com/en/technologies/radeon-prorender).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before AMD Japan, he worked in IBM Japan as a data scientist. There, he was leading several projects relating with image processing.
+And he spend two wonderful years in the University of Tokyo, supervised by [Prof. Toshiya Hachisuka](https://www.ci.i.u-tokyo.ac.jp/~hachisuka/). He obtained his Master degree in Computer Graphics in 2018. He achieved his Bachelor degree under the supervision of [Prof. Toshihiko Yamasaki](http://www.hal.t.u-tokyo.ac.jp/~yamasaki/index-e.html) at the University of Tokyo in 2016.
