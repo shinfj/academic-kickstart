@@ -6,7 +6,7 @@ tags:
 date: "2019-12-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.amd.com/en/technologies/radeon-prorender"
+external_link: "https://gpuopen.com/radeon-pro-render/"
 
 image:
   caption: Photo by AMD Inc.

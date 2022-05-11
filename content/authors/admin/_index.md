@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Shin Fujieda is a software development engineer in the team of Workstation Graphics R&D in AMD Japan Ltd. In this team, he is in charge of developing a phisically-based rendering engine, [ProRender](https://www.amd.com/en/technologies/radeon-prorender).
+Shin Fujieda is a software development engineer in the team of SARRG (Software Advanced Rendering Research Group) in AMD Inc. In this team, he is in charge of developing a phisically-based rendering engine, [ProRender](https://gpuopen.com/radeon-pro-render/).
 
-Before AMD Japan, he worked in IBM Japan as a data scientist. There, he was leading several projects relating with image processing.
+Before AMD, he worked in IBM Japan as a data scientist. There, he was leading several projects relating with image processing.
 And he spend two wonderful years in the University of Tokyo, supervised by [Prof. Toshiya Hachisuka](https://www.ci.i.u-tokyo.ac.jp/~hachisuka/). He obtained his Master degree in Computer Graphics in 2018. He achieved his Bachelor degree under the supervision of [Prof. Toshihiko Yamasaki](http://www.hal.t.u-tokyo.ac.jp/~yamasaki/index-e.html) at the University of Tokyo in 2016.
