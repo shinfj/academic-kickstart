@@ -8,7 +8,7 @@ authors:
 - Flavio Prieto Ortiz
 - Kohei Takayama
 - Toshiya Hachisuka
-date: "2020-01-01"
+date: "2020-03-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
